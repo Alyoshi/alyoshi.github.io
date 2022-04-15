@@ -25,12 +25,12 @@ a{
 
 a:hover{
     cursor: pointer;
-    text-decoration: none;
+    color: #FF8C32;
     font-weight: 1000;
 }
 
 a:active{
-    color: #FF8C32;
+    text-decoration: none;
 }
 
 .image{
